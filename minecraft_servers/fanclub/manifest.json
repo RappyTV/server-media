@@ -1,0 +1,25 @@
+{
+  "server_name": "fanclub",
+  "nice_name": "Fanclub",
+  "direct_ip": "fanclub.rip",
+  "supported_languages": [
+    "en"
+  ],
+  "social": {
+    "discord": "https://discord.gg/fanclub"
+  },
+  "discord": {
+    "server_id": 1149060931503013938,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#00fc2b",
+    "background": "#00fc2b",
+    "text": "#00081A"
+  }, 
+  "location": {
+    "city": "London",
+    "country": "United Kingdom",
+    "country_code": "GB"
+  }
+}
